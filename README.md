@@ -141,3 +141,4 @@ Los textos de la interfaz se escriben en **inglés** en el código (`{% translat
   ```bash
   docker compose exec --user root web chown -R app:app /code/media
   ```
+ctm
